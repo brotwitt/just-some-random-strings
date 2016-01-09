@@ -1,5 +1,5 @@
 {
-  "name": "just-random-strings",
+  "name": "just-random-strings-brotwitt",
   "description": "Get just some random strings that supposed to be star wars names, but I'm too lazy to get them",
   "main": "src/index.js",
   "version": "0.0.0-semantically-released",
